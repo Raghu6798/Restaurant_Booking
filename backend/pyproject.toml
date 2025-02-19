@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "restaurant-booking"
+version = "0.1.0"
+description = "AI-powered restaurant appointment scheduling chatbot"
+authors = ["Raghu6798 <144773863+Raghu6798@users.noreply.github.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+langchain-google-genai = "^2.0.9"
+langchain-cerebras = "^0.5.0"
+langchain-community = "^0.3.17"
+langchain = "^0.3.19"
+langchain-sambanova = "^0.1.2"
+langchain-ai21 = "^1.0.1"
+langgraph = "^0.2.74"
+ipython = "^8.32.0"
+python-dotenv = "^1.0.1"
+fastapi = "^0.115.8"
+motor = "^3.7.0"
+pydantic = {extras = ["dotenv"], version = "^2.10.6"}
+uvicorn = "^0.34.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
