@@ -1,0 +1,562 @@
+2025-02-20 21:36:39.172 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-20
+2025-02-20 21:36:51.288 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-20 21:36:51.315 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-20
+2025-02-20 21:36:51.363 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-20 21:51:42.962 | SUCCESS  | main:chat_with_agent:84 - Response fetched
+2025-02-20 21:52:17.035 | SUCCESS  | main:chat_with_agent:84 - Response fetched
+2025-02-20 22:13:49.591 | SUCCESS  | main:chat_with_agent:84 - Response fetched
+2025-02-20 22:17:15.530 | SUCCESS  | main:chat_with_agent:84 - Response fetched
+2025-02-20 22:26:54.882 | SUCCESS  | main:chat_with_agent:84 - Response fetched
+2025-02-20 22:39:20.938 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-20
+2025-02-20 22:39:20.991 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-20 22:39:21.019 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-20
+2025-02-20 22:39:21.070 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-20 22:51:41.148 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-20
+2025-02-20 22:51:41.151 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-20
+2025-02-20 22:51:41.153 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-20
+2025-02-20 22:51:41.155 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-20
+2025-02-20 22:51:41.155 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-20
+2025-02-20 22:51:41.156 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-20
+2025-02-20 22:51:52.726 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-20
+2025-02-20 22:51:52.795 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-20 22:51:52.796 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-20 22:51:52.819 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-20 22:51:52.844 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-20 22:51:52.868 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-20 22:51:52.868 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-20 22:51:52.891 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-20 22:53:26.366 | SUCCESS  | main:chat_with_agent:84 - Response fetched
+2025-02-20 22:54:59.399 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-20
+2025-02-20 22:54:59.450 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-20 22:54:59.476 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-20
+2025-02-20 22:54:59.527 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-21 10:07:41.346 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-21
+2025-02-21 10:08:01.362 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-21
+2025-02-21 10:10:35.501 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-21
+2025-02-21 10:10:55.502 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-21
+2025-02-21 10:24:52.632 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-21
+2025-02-21 10:24:52.774 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-21 10:24:52.843 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-21
+2025-02-21 10:24:53.091 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-21 10:32:46.995 | SUCCESS  | main:chat_with_agent:84 - Response fetched
+2025-02-21 10:57:03.246 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-21
+2025-02-21 10:57:10.026 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-21 10:57:10.053 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-21
+2025-02-21 10:57:10.102 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-21 10:57:36.948 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-21
+2025-02-21 10:57:37.103 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-21 10:57:37.188 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-21
+2025-02-21 10:57:37.351 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-21 11:10:54.109 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-21
+2025-02-21 11:10:54.317 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-21 11:10:54.403 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-21
+2025-02-21 11:10:54.620 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-21 11:11:36.116 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-21
+2025-02-21 11:11:36.191 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-21 11:11:36.225 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-21
+2025-02-21 11:11:36.278 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-21 11:15:19.263 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-21
+2025-02-21 11:15:19.443 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-21 11:15:19.528 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-21
+2025-02-21 11:15:19.692 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-21 11:16:26.668 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-21
+2025-02-21 11:16:26.832 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-21 11:16:26.925 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-21
+2025-02-21 11:16:27.089 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-21 11:16:35.930 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-21
+2025-02-21 11:16:35.978 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-21 11:16:36.006 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-21
+2025-02-21 11:16:36.065 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-21 11:18:38.882 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-21
+2025-02-21 11:18:39.054 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-21 11:19:42.849 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-21
+2025-02-21 11:19:43.018 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-21 11:19:43.094 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-21
+2025-02-21 11:19:43.235 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-21 11:20:07.857 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-21
+2025-02-21 11:20:07.938 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-21 11:20:07.967 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-21
+2025-02-21 11:20:08.300 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-21 11:31:05.735 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-21
+2025-02-21 11:31:05.882 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-21 11:31:05.946 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-21
+2025-02-21 11:31:06.069 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-21 11:31:08.638 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-21
+2025-02-21 11:31:08.754 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-21 11:31:08.823 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-21
+2025-02-21 11:31:09.030 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-21 11:31:20.193 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-21
+2025-02-21 11:31:20.327 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-21 11:31:20.412 | INFO     | main:get_dashboard_stats:54 - Fetching dashboard stats for date = 2025-02-21
+2025-02-21 11:31:20.581 | SUCCESS  | main:get_dashboard_stats:64 - Dashboard statistics fetched successfully ! 
+2025-02-25 11:17:56.829 | INFO     | main:get_dashboard_stats:52 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 11:18:16.839 | INFO     | main:get_dashboard_stats:52 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 11:37:57.779 | INFO     | main:get_dashboard_stats:52 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 11:37:57.870 | SUCCESS  | main:get_dashboard_stats:61 - Dashboard statistics fetched successfully ! 
+2025-02-25 11:37:57.927 | INFO     | main:get_dashboard_stats:52 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 11:37:58.010 | SUCCESS  | main:get_dashboard_stats:61 - Dashboard statistics fetched successfully ! 
+2025-02-25 11:38:23.558 | INFO     | main:get_dashboard_stats:52 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 11:38:23.627 | SUCCESS  | main:get_dashboard_stats:61 - Dashboard statistics fetched successfully ! 
+2025-02-25 11:38:31.319 | INFO     | main:get_dashboard_stats:52 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 11:38:31.403 | SUCCESS  | main:get_dashboard_stats:61 - Dashboard statistics fetched successfully ! 
+2025-02-25 11:38:31.443 | INFO     | main:get_dashboard_stats:52 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 11:38:31.530 | SUCCESS  | main:get_dashboard_stats:61 - Dashboard statistics fetched successfully ! 
+2025-02-25 11:46:58.419 | SUCCESS  | main:chat_with_agent:81 - Response fetched
+2025-02-25 12:07:26.131 | INFO     | main:get_dashboard_stats:52 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 12:07:27.066 | SUCCESS  | main:get_dashboard_stats:61 - Dashboard statistics fetched successfully ! 
+2025-02-25 12:07:55.498 | INFO     | main:get_dashboard_stats:52 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 12:07:55.579 | SUCCESS  | main:get_dashboard_stats:61 - Dashboard statistics fetched successfully ! 
+2025-02-25 12:14:50.513 | INFO     | main:get_dashboard_stats:52 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 12:14:52.299 | SUCCESS  | main:get_dashboard_stats:61 - Dashboard statistics fetched successfully ! 
+2025-02-25 12:17:17.325 | INFO     | main:get_dashboard_stats:52 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 12:17:18.000 | SUCCESS  | main:get_dashboard_stats:61 - Dashboard statistics fetched successfully ! 
+2025-02-25 12:21:11.815 | SUCCESS  | main:create_booking:96 - Booking created successfully!
+2025-02-25 12:21:15.468 | INFO     | main:get_dashboard_stats:52 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 12:21:15.776 | SUCCESS  | main:get_dashboard_stats:61 - Dashboard statistics fetched successfully ! 
+2025-02-25 12:21:15.813 | INFO     | main:get_dashboard_stats:52 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 12:21:15.881 | SUCCESS  | main:get_dashboard_stats:61 - Dashboard statistics fetched successfully ! 
+2025-02-25 13:04:33.640 | INFO     | main:get_dashboard_stats:56 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 13:04:34.301 | SUCCESS  | main:get_dashboard_stats:63 - Dashboard statistics fetched successfully ! 
+2025-02-25 13:12:08.485 | INFO     | main:get_dashboard_stats:56 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 13:12:08.485 | INFO     | main:get_dashboard_stats:56 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 13:12:08.487 | INFO     | main:get_dashboard_stats:56 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 13:12:08.489 | INFO     | main:get_dashboard_stats:56 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 13:12:08.727 | SUCCESS  | main:get_dashboard_stats:63 - Dashboard statistics fetched successfully ! 
+2025-02-25 13:12:08.774 | SUCCESS  | main:get_dashboard_stats:63 - Dashboard statistics fetched successfully ! 
+2025-02-25 13:12:08.804 | SUCCESS  | main:get_dashboard_stats:63 - Dashboard statistics fetched successfully ! 
+2025-02-25 13:12:10.084 | SUCCESS  | main:get_dashboard_stats:63 - Dashboard statistics fetched successfully ! 
+2025-02-25 13:14:00.190 | SUCCESS  | main:create_booking:107 - Booking created successfully!
+2025-02-25 13:14:02.567 | INFO     | main:get_dashboard_stats:56 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 13:14:02.956 | SUCCESS  | main:get_dashboard_stats:63 - Dashboard statistics fetched successfully ! 
+2025-02-25 13:14:02.991 | INFO     | main:get_dashboard_stats:56 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 13:14:03.056 | SUCCESS  | main:get_dashboard_stats:63 - Dashboard statistics fetched successfully ! 
+2025-02-25 13:40:33.593 | INFO     | main:get_dashboard_stats:158 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 13:40:34.150 | SUCCESS  | main:get_dashboard_stats:165 - Dashboard statistics fetched successfully ! 
+2025-02-25 13:40:34.185 | INFO     | main:get_dashboard_stats:158 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 13:40:34.266 | SUCCESS  | main:get_dashboard_stats:165 - Dashboard statistics fetched successfully ! 
+2025-02-25 13:42:31.481 | INFO     | main:get_dashboard_stats:158 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 13:42:31.545 | SUCCESS  | main:get_dashboard_stats:165 - Dashboard statistics fetched successfully ! 
+2025-02-25 13:42:31.582 | INFO     | main:get_dashboard_stats:158 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 13:42:31.647 | SUCCESS  | main:get_dashboard_stats:165 - Dashboard statistics fetched successfully ! 
+2025-02-25 13:43:21.703 | INFO     | main:get_dashboard_stats:158 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 13:43:21.770 | SUCCESS  | main:get_dashboard_stats:165 - Dashboard statistics fetched successfully ! 
+2025-02-25 13:43:21.805 | INFO     | main:get_dashboard_stats:158 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 13:43:21.868 | SUCCESS  | main:get_dashboard_stats:165 - Dashboard statistics fetched successfully ! 
+2025-02-25 13:46:24.745 | INFO     | main:get_dashboard_stats:158 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 13:46:25.107 | SUCCESS  | main:get_dashboard_stats:165 - Dashboard statistics fetched successfully ! 
+2025-02-25 13:46:25.147 | INFO     | main:get_dashboard_stats:158 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 13:46:25.219 | SUCCESS  | main:get_dashboard_stats:165 - Dashboard statistics fetched successfully ! 
+2025-02-25 14:46:17.560 | INFO     | main:get_dashboard_stats:158 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 14:46:18.233 | SUCCESS  | main:get_dashboard_stats:165 - Dashboard statistics fetched successfully ! 
+2025-02-25 14:51:03.439 | INFO     | main:get_dashboard_stats:156 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 14:51:04.356 | SUCCESS  | main:get_dashboard_stats:163 - Dashboard statistics fetched successfully ! 
+2025-02-25 14:51:04.391 | INFO     | main:get_dashboard_stats:156 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 14:51:04.452 | SUCCESS  | main:get_dashboard_stats:163 - Dashboard statistics fetched successfully ! 
+2025-02-25 14:51:11.182 | INFO     | main:get_dashboard_stats:156 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 14:51:11.243 | SUCCESS  | main:get_dashboard_stats:163 - Dashboard statistics fetched successfully ! 
+2025-02-25 14:51:11.274 | INFO     | main:get_dashboard_stats:156 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 14:51:11.334 | SUCCESS  | main:get_dashboard_stats:163 - Dashboard statistics fetched successfully ! 
+2025-02-25 15:41:48.524 | ERROR    | main:chat_with_bot:200 - Chatbot Error: 
+2025-02-25 15:41:48.529 | INFO     | main:get_dashboard_stats:156 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 15:41:48.530 | INFO     | main:get_dashboard_stats:156 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 15:41:48.979 | SUCCESS  | main:get_dashboard_stats:163 - Dashboard statistics fetched successfully ! 
+2025-02-25 15:41:49.156 | SUCCESS  | main:get_dashboard_stats:163 - Dashboard statistics fetched successfully ! 
+2025-02-25 17:05:13.872 | INFO     | main:get_dashboard_stats:147 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 17:05:14.588 | SUCCESS  | main:get_dashboard_stats:154 - Dashboard statistics fetched successfully ! 
+2025-02-25 17:05:14.626 | INFO     | main:get_dashboard_stats:147 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 17:05:14.692 | SUCCESS  | main:get_dashboard_stats:154 - Dashboard statistics fetched successfully ! 
+2025-02-25 17:20:41.913 | INFO     | main:get_dashboard_stats:126 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 17:20:42.655 | SUCCESS  | main:get_dashboard_stats:133 - Dashboard statistics fetched successfully!
+2025-02-25 17:20:42.689 | INFO     | main:get_dashboard_stats:126 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 17:20:42.752 | SUCCESS  | main:get_dashboard_stats:133 - Dashboard statistics fetched successfully!
+2025-02-25 17:21:11.413 | ERROR    | main:chat:119 - Chatbot Error: Expected mapping type as input to ChatPromptTemplate. Received <class 'str'>.
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_PROMPT_INPUT 
+2025-02-25 17:23:30.063 | INFO     | main:get_dashboard_stats:123 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 17:23:30.656 | SUCCESS  | main:get_dashboard_stats:130 - Dashboard statistics fetched successfully!
+2025-02-25 17:23:30.688 | INFO     | main:get_dashboard_stats:123 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 17:23:30.750 | SUCCESS  | main:get_dashboard_stats:130 - Dashboard statistics fetched successfully!
+2025-02-25 17:23:54.870 | ERROR    | main:chat:116 - Chatbot Error: 'Input to ChatPromptTemplate is missing variables {\'state.available_tables\', \'state.total_bookings\', "\', \'.join([f\'{b.guests} guests at {b.time} on {b.date}\' for b in state.bookings])", \'state.todays_guests\'}.  Expected: ["\', \'.join([f\'{b.guests} guests at {b.time} on {b.date}\' for b in state.bookings])", \'state.available_tables\', \'state.todays_guests\', \'state.total_bookings\'] Received: [\'input\']\nNote: if you intended {state.available_tables} to be part of the string and not a variable, please escape it with double curly braces like: \'{{state.available_tables}}\'.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_PROMPT_INPUT '
+2025-02-25 17:43:18.867 | INFO     | main:get_dashboard_stats:136 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 17:43:18.931 | SUCCESS  | main:get_dashboard_stats:143 - Dashboard statistics fetched successfully!
+2025-02-25 17:43:28.372 | INFO     | main:get_dashboard_stats:136 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 17:43:28.439 | SUCCESS  | main:get_dashboard_stats:143 - Dashboard statistics fetched successfully!
+2025-02-25 17:43:28.476 | INFO     | main:get_dashboard_stats:136 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 17:43:28.543 | SUCCESS  | main:get_dashboard_stats:143 - Dashboard statistics fetched successfully!
+2025-02-25 17:49:14.727 | INFO     | main:get_dashboard_stats:155 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 17:49:14.792 | SUCCESS  | main:get_dashboard_stats:162 - Dashboard statistics fetched successfully!
+2025-02-25 17:49:14.826 | INFO     | main:get_dashboard_stats:155 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 17:49:14.898 | SUCCESS  | main:get_dashboard_stats:162 - Dashboard statistics fetched successfully!
+2025-02-25 17:54:57.409 | INFO     | main:get_dashboard_stats:155 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 17:54:58.334 | SUCCESS  | main:get_dashboard_stats:162 - Dashboard statistics fetched successfully!
+2025-02-25 17:55:06.965 | INFO     | main:get_dashboard_stats:148 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 17:55:07.542 | SUCCESS  | main:get_dashboard_stats:155 - Dashboard statistics fetched successfully!
+2025-02-25 17:57:36.363 | INFO     | main:get_dashboard_stats:148 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 17:57:36.424 | SUCCESS  | main:get_dashboard_stats:155 - Dashboard statistics fetched successfully!
+2025-02-25 17:57:36.459 | INFO     | main:get_dashboard_stats:148 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 17:57:36.521 | SUCCESS  | main:get_dashboard_stats:155 - Dashboard statistics fetched successfully!
+2025-02-25 19:43:30.344 | INFO     | main:get_dashboard_stats:145 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 19:43:31.975 | SUCCESS  | main:get_dashboard_stats:152 - Dashboard statistics fetched successfully!
+2025-02-25 19:43:32.012 | INFO     | main:get_dashboard_stats:145 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 19:43:32.075 | SUCCESS  | main:get_dashboard_stats:152 - Dashboard statistics fetched successfully!
+2025-02-25 19:44:06.353 | INFO     | main:get_dashboard_stats:145 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 19:44:06.423 | SUCCESS  | main:get_dashboard_stats:152 - Dashboard statistics fetched successfully!
+2025-02-25 19:44:06.474 | INFO     | main:get_dashboard_stats:145 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 19:44:06.544 | SUCCESS  | main:get_dashboard_stats:152 - Dashboard statistics fetched successfully!
+2025-02-25 19:54:30.393 | INFO     | main:get_dashboard_stats:145 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 19:54:30.465 | SUCCESS  | main:get_dashboard_stats:152 - Dashboard statistics fetched successfully!
+2025-02-25 19:54:30.512 | INFO     | main:get_dashboard_stats:145 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 19:54:30.590 | SUCCESS  | main:get_dashboard_stats:152 - Dashboard statistics fetched successfully!
+2025-02-25 20:19:27.334 | SUCCESS  | main:create_booking:181 - Booking created successfully!
+2025-02-25 20:19:30.948 | INFO     | main:get_dashboard_stats:145 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 20:19:31.301 | SUCCESS  | main:get_dashboard_stats:152 - Dashboard statistics fetched successfully!
+2025-02-25 20:19:31.336 | INFO     | main:get_dashboard_stats:145 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 20:19:31.400 | SUCCESS  | main:get_dashboard_stats:152 - Dashboard statistics fetched successfully!
+2025-02-25 20:25:10.781 | INFO     | main:restaurant_chatbot:97 - Sending prompt to LLM: Human: 
+        You are a restaurant assistant. Here is the current dashboard state:
+        - Total Bookings: 6
+        - Today's Guests: 1
+        - Available Tables: 9
+        - Booking Details: 2 guests at 19:00 on 2025-02-21, 2 guests at 19:00 on 2025-02-26, 2 guests at 17:00 on 2025-02-20, 2 guests at 21:00 on 2025-02-28, 1 guests at 21:00 on 2025-02-25, 2 guests at 23:00 on 2025-02-26
+        
+        If a user asks about a date, check the number of bookings for that date.
+        If `bookings_per_date[date] < state.available_tables`, say "Yes, tables are available."
+        Otherwise, say "No, tables are fully booked."
+        
+        User: "can You now tell me how many bookings are available for today ?"
+        
+2025-02-25 20:25:12.840 | INFO     | main:restaurant_chatbot:102 - LLM response: Today's date is 2025-02-20, and there is 1 booking for today. Since the number of bookings (1) is less than the available tables (9), the answer is:
+
+"Yes, tables are available."
+2025-02-25 20:27:08.162 | ERROR    | main:chat:138 - Chatbot Error: ('Sambanova /complete call failed with status code 500.', '<!doctype html>\n<html lang=en>\n<title>500 Internal Server Error</title>\n<h1>Internal Server Error</h1>\n<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>\n.')
+2025-02-25 20:34:11.149 | ERROR    | main:chat:141 - Chatbot Error: tuple index out of range
+2025-02-25 21:31:46.125 | SUCCESS  | main:create_booking:188 - Booking created successfully!
+2025-02-25 21:32:20.090 | INFO     | main:get_dashboard_stats:152 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 21:32:20.489 | SUCCESS  | main:get_dashboard_stats:159 - Dashboard statistics fetched successfully!
+2025-02-25 21:32:20.528 | INFO     | main:get_dashboard_stats:152 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 21:32:20.592 | SUCCESS  | main:get_dashboard_stats:159 - Dashboard statistics fetched successfully!
+2025-02-25 21:35:00.691 | INFO     | main:get_dashboard_stats:152 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 21:35:00.765 | SUCCESS  | main:get_dashboard_stats:159 - Dashboard statistics fetched successfully!
+2025-02-25 21:35:00.808 | INFO     | main:get_dashboard_stats:152 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 21:35:00.886 | SUCCESS  | main:get_dashboard_stats:159 - Dashboard statistics fetched successfully!
+2025-02-25 23:23:57.053 | INFO     | main:get_dashboard_stats:153 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 23:23:57.115 | SUCCESS  | main:get_dashboard_stats:160 - Dashboard statistics fetched successfully!
+2025-02-25 23:23:57.150 | INFO     | main:get_dashboard_stats:153 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 23:23:57.216 | SUCCESS  | main:get_dashboard_stats:160 - Dashboard statistics fetched successfully!
+2025-02-25 23:25:36.758 | SUCCESS  | main:create_booking:189 - Booking created successfully!
+2025-02-25 23:25:38.287 | INFO     | main:get_dashboard_stats:153 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 23:25:38.364 | SUCCESS  | main:get_dashboard_stats:160 - Dashboard statistics fetched successfully!
+2025-02-25 23:25:38.405 | INFO     | main:get_dashboard_stats:153 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 23:25:38.470 | SUCCESS  | main:get_dashboard_stats:160 - Dashboard statistics fetched successfully!
+2025-02-25 23:31:15.312 | INFO     | main:get_dashboard_stats:153 - Fetching dashboard stats for date = 2025-02-25
+2025-02-25 23:31:15.378 | SUCCESS  | main:get_dashboard_stats:160 - Dashboard statistics fetched successfully!
+2025-02-26 11:31:57.465 | INFO     | main:get_dashboard_stats:153 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 11:31:58.960 | SUCCESS  | main:get_dashboard_stats:160 - Dashboard statistics fetched successfully!
+2025-02-26 11:31:59.052 | INFO     | main:get_dashboard_stats:153 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 11:31:59.219 | SUCCESS  | main:get_dashboard_stats:160 - Dashboard statistics fetched successfully!
+2025-02-26 11:56:55.815 | INFO     | main:get_dashboard_stats:157 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 11:56:56.718 | SUCCESS  | main:get_dashboard_stats:164 - Dashboard statistics fetched successfully!
+2025-02-26 11:56:56.756 | INFO     | main:get_dashboard_stats:157 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 11:56:56.831 | SUCCESS  | main:get_dashboard_stats:164 - Dashboard statistics fetched successfully!
+2025-02-26 12:33:13.409 | INFO     | main:get_dashboard_stats:154 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 12:33:14.298 | SUCCESS  | main:get_dashboard_stats:161 - Dashboard statistics fetched successfully!
+2025-02-26 12:33:14.339 | INFO     | main:get_dashboard_stats:154 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 12:33:14.417 | SUCCESS  | main:get_dashboard_stats:161 - Dashboard statistics fetched successfully!
+2025-02-26 12:46:40.197 | INFO     | main:get_dashboard_stats:154 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 12:46:40.255 | SUCCESS  | main:get_dashboard_stats:161 - Dashboard statistics fetched successfully!
+2025-02-26 12:46:51.210 | INFO     | main:get_dashboard_stats:154 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 12:46:51.272 | SUCCESS  | main:get_dashboard_stats:161 - Dashboard statistics fetched successfully!
+2025-02-26 12:46:53.207 | INFO     | main:get_dashboard_stats:154 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 12:46:53.266 | SUCCESS  | main:get_dashboard_stats:161 - Dashboard statistics fetched successfully!
+2025-02-26 13:55:02.428 | INFO     | main:get_dashboard_stats:154 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 13:55:03.293 | SUCCESS  | main:get_dashboard_stats:161 - Dashboard statistics fetched successfully!
+2025-02-26 13:55:03.328 | INFO     | main:get_dashboard_stats:154 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 13:55:03.396 | SUCCESS  | main:get_dashboard_stats:161 - Dashboard statistics fetched successfully!
+2025-02-26 18:54:36.692 | INFO     | main:get_dashboard_stats:154 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 18:54:37.753 | SUCCESS  | main:get_dashboard_stats:161 - Dashboard statistics fetched successfully!
+2025-02-26 18:54:37.794 | INFO     | main:get_dashboard_stats:154 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 18:54:37.863 | SUCCESS  | main:get_dashboard_stats:161 - Dashboard statistics fetched successfully!
+2025-02-26 19:19:22.776 | INFO     | main:get_dashboard_stats:157 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 19:19:22.842 | SUCCESS  | main:get_dashboard_stats:164 - Dashboard statistics fetched successfully!
+2025-02-26 19:19:22.878 | INFO     | main:get_dashboard_stats:157 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 19:19:22.949 | SUCCESS  | main:get_dashboard_stats:164 - Dashboard statistics fetched successfully!
+2025-02-26 20:11:05.120 | SUCCESS  | main:create_booking:193 - Booking created successfully!
+2025-02-26 20:11:06.574 | INFO     | main:get_dashboard_stats:157 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 20:11:07.854 | SUCCESS  | main:get_dashboard_stats:164 - Dashboard statistics fetched successfully!
+2025-02-26 20:11:07.890 | INFO     | main:get_dashboard_stats:157 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 20:11:07.953 | SUCCESS  | main:get_dashboard_stats:164 - Dashboard statistics fetched successfully!
+2025-02-26 20:27:34.779 | INFO     | main:get_dashboard_stats:157 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 20:27:35.476 | SUCCESS  | main:get_dashboard_stats:164 - Dashboard statistics fetched successfully!
+2025-02-26 20:27:35.510 | INFO     | main:get_dashboard_stats:157 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 20:27:35.571 | SUCCESS  | main:get_dashboard_stats:164 - Dashboard statistics fetched successfully!
+2025-02-26 20:27:49.694 | INFO     | main:get_dashboard_stats:157 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 20:27:49.759 | SUCCESS  | main:get_dashboard_stats:164 - Dashboard statistics fetched successfully!
+2025-02-26 20:28:06.438 | INFO     | main:get_dashboard_stats:157 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 20:28:07.195 | SUCCESS  | main:get_dashboard_stats:164 - Dashboard statistics fetched successfully!
+2025-02-26 20:30:23.739 | INFO     | main:get_dashboard_stats:158 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 20:30:24.294 | SUCCESS  | main:get_dashboard_stats:165 - Dashboard statistics fetched successfully!
+2025-02-26 20:30:24.329 | INFO     | main:get_dashboard_stats:158 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 20:30:24.396 | SUCCESS  | main:get_dashboard_stats:165 - Dashboard statistics fetched successfully!
+2025-02-26 21:14:03.625 | INFO     | main:get_dashboard_stats:246 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 21:14:04.500 | SUCCESS  | main:get_dashboard_stats:253 - Dashboard statistics fetched successfully!
+2025-02-26 21:16:11.119 | INFO     | main:get_dashboard_stats:160 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 21:16:11.718 | SUCCESS  | main:get_dashboard_stats:167 - Dashboard statistics fetched successfully!
+2025-02-26 21:16:11.755 | INFO     | main:get_dashboard_stats:160 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 21:16:11.815 | SUCCESS  | main:get_dashboard_stats:167 - Dashboard statistics fetched successfully!
+2025-02-26 21:32:48.318 | INFO     | main:get_dashboard_stats:172 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 21:32:48.504 | SUCCESS  | main:get_dashboard_stats:179 - Dashboard statistics fetched successfully!
+2025-02-26 21:32:48.575 | INFO     | main:get_dashboard_stats:172 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 21:32:48.723 | SUCCESS  | main:get_dashboard_stats:179 - Dashboard statistics fetched successfully!
+2025-02-26 21:36:24.787 | INFO     | database:get_dashboard_stats:209 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 21:36:24.853 | SUCCESS  | database:get_dashboard_stats:216 - Dashboard statistics fetched successfully!
+2025-02-26 21:36:24.890 | INFO     | database:get_dashboard_stats:209 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 21:36:24.956 | SUCCESS  | database:get_dashboard_stats:216 - Dashboard statistics fetched successfully!
+2025-02-26 21:36:35.507 | INFO     | database:fetch_dashboard_statistics:80 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 21:36:35.508 | ERROR    | database:fetch_dashboard_statistics:100 - Error fetching dashboard statistics: 'AsyncIOMotorCursor' object is not iterable
+2025-02-26 21:36:35.510 | ERROR    | database:chat:198 - Error in chat endpoint: 1 validation error for DashboardState
+total_bookings
+  Input should be a valid integer [type=int_type, input_value=<Future pending cb=[_chai...asyncio\futures.py:387]>, input_type=Future]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_type
+2025-02-26 21:41:24.876 | INFO     | database:get_dashboard_stats:209 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 21:41:25.938 | SUCCESS  | database:get_dashboard_stats:216 - Dashboard statistics fetched successfully!
+2025-02-26 21:41:25.976 | INFO     | database:get_dashboard_stats:209 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 21:41:26.042 | SUCCESS  | database:get_dashboard_stats:216 - Dashboard statistics fetched successfully!
+2025-02-26 21:41:27.960 | INFO     | database:fetch_dashboard_statistics:80 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 21:41:27.961 | ERROR    | database:fetch_dashboard_statistics:100 - Error fetching dashboard statistics: 'AsyncIOMotorCursor' object is not iterable
+2025-02-26 21:41:27.962 | ERROR    | database:chat:198 - Error in chat endpoint: 1 validation error for DashboardState
+total_bookings
+  Input should be a valid integer [type=int_type, input_value=<Future pending cb=[_chai...asyncio\futures.py:387]>, input_type=Future]
+    For further information visit https://errors.pydantic.dev/2.10/v/int_type
+2025-02-26 21:47:00.208 | INFO     | database:get_dashboard_stats:219 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 21:47:01.054 | SUCCESS  | database:get_dashboard_stats:226 - Dashboard statistics fetched successfully!
+2025-02-26 21:47:01.092 | INFO     | database:get_dashboard_stats:219 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 21:47:01.159 | SUCCESS  | database:get_dashboard_stats:226 - Dashboard statistics fetched successfully!
+2025-02-26 21:47:05.420 | INFO     | database:fetch_dashboard_statistics:118 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 21:47:05.520 | INFO     | database:fetch_dashboard_statistics:139 - Dashboard statistics fetched successfully!
+2025-02-26 21:47:05.524 | ERROR    | database:chat:211 - Error in chat endpoint: No synchronous function provided to "Fetch_Dashboard".
+Either initialize with a synchronous function or invoke via the async API (ainvoke, astream, etc.)
+2025-02-26 21:50:00.732 | INFO     | database:fetch_dashboard_statistics:118 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 21:50:00.835 | INFO     | database:fetch_dashboard_statistics:139 - Dashboard statistics fetched successfully!
+2025-02-26 21:50:00.839 | ERROR    | database:chat:211 - Error in chat endpoint: No synchronous function provided to "Fetch_Dashboard".
+Either initialize with a synchronous function or invoke via the async API (ainvoke, astream, etc.)
+2025-02-26 21:50:47.692 | INFO     | database:fetch_dashboard_statistics:118 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 21:50:47.989 | INFO     | database:fetch_dashboard_statistics:139 - Dashboard statistics fetched successfully!
+2025-02-26 21:50:47.995 | ERROR    | database:chat:211 - Error in chat endpoint: No synchronous function provided to "Fetch_Dashboard".
+Either initialize with a synchronous function or invoke via the async API (ainvoke, astream, etc.)
+2025-02-26 21:51:07.232 | INFO     | database:get_dashboard_stats:219 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 21:51:07.449 | SUCCESS  | database:get_dashboard_stats:226 - Dashboard statistics fetched successfully!
+2025-02-26 21:51:07.516 | INFO     | database:get_dashboard_stats:219 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 21:51:07.647 | SUCCESS  | database:get_dashboard_stats:226 - Dashboard statistics fetched successfully!
+2025-02-26 21:52:16.109 | INFO     | database:get_dashboard_stats:219 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 21:52:16.808 | SUCCESS  | database:get_dashboard_stats:226 - Dashboard statistics fetched successfully!
+2025-02-26 21:52:16.845 | INFO     | database:get_dashboard_stats:219 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 21:52:16.909 | SUCCESS  | database:get_dashboard_stats:226 - Dashboard statistics fetched successfully!
+2025-02-26 21:52:20.899 | INFO     | database:fetch_dashboard_statistics:118 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 21:52:20.994 | INFO     | database:fetch_dashboard_statistics:139 - Dashboard statistics fetched successfully!
+2025-02-26 21:52:20.995 | ERROR    | database:chat:211 - Error in chat endpoint: 'async_generator' object is not iterable
+2025-02-26 21:54:25.576 | INFO     | database:fetch_dashboard_statistics:118 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 21:54:26.241 | INFO     | database:fetch_dashboard_statistics:139 - Dashboard statistics fetched successfully!
+2025-02-26 21:54:26.242 | ERROR    | database:chat:211 - Error in chat endpoint: 'async_generator' object is not iterable
+2025-02-26 21:55:51.916 | INFO     | database:fetch_dashboard_statistics:118 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 21:55:56.196 | INFO     | database:fetch_dashboard_statistics:139 - Dashboard statistics fetched successfully!
+2025-02-26 21:55:56.200 | INFO     | database:fetch_dashboard_statistics:118 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 21:55:56.454 | INFO     | database:fetch_dashboard_statistics:139 - Dashboard statistics fetched successfully!
+2025-02-26 21:55:56.459 | ERROR    | database:chat:214 - Error in chat endpoint: 2 validation errors for AIMessage
+content.str
+  Input should be a valid string [type=string_type, input_value=<coroutine object Runnabl...e at 0x00000115751492A0>, input_type=coroutine]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+content.list[union[str,dict[any,any]]]
+  Input should be a valid list [type=list_type, input_value=<coroutine object Runnabl...e at 0x00000115751492A0>, input_type=coroutine]
+    For further information visit https://errors.pydantic.dev/2.10/v/list_type
+2025-02-26 21:56:04.147 | INFO     | database:get_dashboard_stats:222 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 21:56:04.295 | SUCCESS  | database:get_dashboard_stats:229 - Dashboard statistics fetched successfully!
+2025-02-26 21:56:04.345 | INFO     | database:get_dashboard_stats:222 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 21:56:04.404 | SUCCESS  | database:get_dashboard_stats:229 - Dashboard statistics fetched successfully!
+2025-02-26 21:56:15.230 | INFO     | database:get_dashboard_stats:222 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 21:56:15.415 | SUCCESS  | database:get_dashboard_stats:229 - Dashboard statistics fetched successfully!
+2025-02-26 21:56:22.772 | INFO     | database:fetch_dashboard_statistics:118 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 21:56:23.049 | INFO     | database:fetch_dashboard_statistics:139 - Dashboard statistics fetched successfully!
+2025-02-26 21:56:23.052 | INFO     | database:fetch_dashboard_statistics:118 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 21:56:23.307 | INFO     | database:fetch_dashboard_statistics:139 - Dashboard statistics fetched successfully!
+2025-02-26 21:56:23.309 | ERROR    | database:chat:214 - Error in chat endpoint: 2 validation errors for AIMessage
+content.str
+  Input should be a valid string [type=string_type, input_value=<coroutine object Runnabl...e at 0x0000011574C58C10>, input_type=coroutine]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+content.list[union[str,dict[any,any]]]
+  Input should be a valid list [type=list_type, input_value=<coroutine object Runnabl...e at 0x0000011574C58C10>, input_type=coroutine]
+    For further information visit https://errors.pydantic.dev/2.10/v/list_type
+2025-02-26 21:57:16.082 | INFO     | database:get_dashboard_stats:222 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 21:57:16.150 | SUCCESS  | database:get_dashboard_stats:229 - Dashboard statistics fetched successfully!
+2025-02-26 21:57:16.187 | INFO     | database:get_dashboard_stats:222 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 21:57:16.252 | SUCCESS  | database:get_dashboard_stats:229 - Dashboard statistics fetched successfully!
+2025-02-26 22:00:15.229 | INFO     | database:fetch_dashboard_statistics:116 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:00:16.634 | INFO     | database:fetch_dashboard_statistics:137 - Dashboard statistics fetched successfully!
+2025-02-26 22:00:16.638 | INFO     | database:fetch_dashboard_statistics:116 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:00:16.734 | INFO     | database:fetch_dashboard_statistics:137 - Dashboard statistics fetched successfully!
+2025-02-26 22:02:03.885 | INFO     | database:fetch_dashboard_statistics:116 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:02:03.984 | INFO     | database:fetch_dashboard_statistics:137 - Dashboard statistics fetched successfully!
+2025-02-26 22:02:03.986 | INFO     | database:fetch_dashboard_statistics:116 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:02:04.085 | INFO     | database:fetch_dashboard_statistics:137 - Dashboard statistics fetched successfully!
+2025-02-26 22:04:47.443 | INFO     | database:get_dashboard_stats:216 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:04:47.445 | INFO     | database:get_dashboard_stats:216 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:04:47.446 | INFO     | database:get_dashboard_stats:216 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:04:47.447 | INFO     | database:get_dashboard_stats:216 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:04:47.449 | INFO     | database:fetch_dashboard_statistics:116 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:04:47.451 | INFO     | database:get_dashboard_stats:216 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:04:47.451 | INFO     | database:get_dashboard_stats:216 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:04:47.452 | INFO     | database:get_dashboard_stats:216 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:04:47.452 | INFO     | database:get_dashboard_stats:216 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:04:48.331 | SUCCESS  | database:get_dashboard_stats:223 - Dashboard statistics fetched successfully!
+2025-02-26 22:04:48.333 | SUCCESS  | database:get_dashboard_stats:223 - Dashboard statistics fetched successfully!
+2025-02-26 22:04:48.345 | SUCCESS  | database:get_dashboard_stats:223 - Dashboard statistics fetched successfully!
+2025-02-26 22:04:48.361 | SUCCESS  | database:get_dashboard_stats:223 - Dashboard statistics fetched successfully!
+2025-02-26 22:04:48.361 | SUCCESS  | database:get_dashboard_stats:223 - Dashboard statistics fetched successfully!
+2025-02-26 22:04:48.365 | SUCCESS  | database:get_dashboard_stats:223 - Dashboard statistics fetched successfully!
+2025-02-26 22:04:48.377 | SUCCESS  | database:get_dashboard_stats:223 - Dashboard statistics fetched successfully!
+2025-02-26 22:04:48.394 | SUCCESS  | database:get_dashboard_stats:223 - Dashboard statistics fetched successfully!
+2025-02-26 22:04:48.552 | INFO     | database:fetch_dashboard_statistics:137 - Dashboard statistics fetched successfully!
+2025-02-26 22:04:48.555 | INFO     | database:fetch_dashboard_statistics:116 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:04:48.650 | INFO     | database:fetch_dashboard_statistics:137 - Dashboard statistics fetched successfully!
+2025-02-26 22:05:01.203 | INFO     | database:fetch_dashboard_statistics:116 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:05:01.301 | INFO     | database:fetch_dashboard_statistics:137 - Dashboard statistics fetched successfully!
+2025-02-26 22:05:01.304 | INFO     | database:fetch_dashboard_statistics:116 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:05:01.397 | INFO     | database:fetch_dashboard_statistics:137 - Dashboard statistics fetched successfully!
+2025-02-26 22:07:47.569 | INFO     | database:fetch_dashboard_statistics:116 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:07:47.666 | INFO     | database:fetch_dashboard_statistics:137 - Dashboard statistics fetched successfully!
+2025-02-26 22:07:47.668 | INFO     | database:fetch_dashboard_statistics:116 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:07:47.766 | INFO     | database:fetch_dashboard_statistics:137 - Dashboard statistics fetched successfully!
+2025-02-26 22:12:10.774 | INFO     | database:fetch_dashboard_statistics:116 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:12:10.882 | INFO     | database:fetch_dashboard_statistics:137 - Dashboard statistics fetched successfully!
+2025-02-26 22:12:10.885 | INFO     | database:fetch_dashboard_statistics:116 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:12:10.979 | INFO     | database:fetch_dashboard_statistics:137 - Dashboard statistics fetched successfully!
+2025-02-26 22:12:28.921 | INFO     | database:fetch_dashboard_statistics:116 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:12:29.015 | INFO     | database:fetch_dashboard_statistics:137 - Dashboard statistics fetched successfully!
+2025-02-26 22:12:29.018 | INFO     | database:fetch_dashboard_statistics:116 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:12:29.112 | INFO     | database:fetch_dashboard_statistics:137 - Dashboard statistics fetched successfully!
+2025-02-26 22:12:39.464 | INFO     | database:fetch_dashboard_statistics:116 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:12:39.567 | INFO     | database:fetch_dashboard_statistics:137 - Dashboard statistics fetched successfully!
+2025-02-26 22:12:39.569 | INFO     | database:fetch_dashboard_statistics:116 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:12:39.664 | INFO     | database:fetch_dashboard_statistics:137 - Dashboard statistics fetched successfully!
+2025-02-26 22:16:55.337 | INFO     | database:get_dashboard_stats:216 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:16:55.401 | SUCCESS  | database:get_dashboard_stats:223 - Dashboard statistics fetched successfully!
+2025-02-26 22:16:55.436 | INFO     | database:get_dashboard_stats:216 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:16:55.502 | SUCCESS  | database:get_dashboard_stats:223 - Dashboard statistics fetched successfully!
+2025-02-26 22:17:02.081 | INFO     | database:get_dashboard_stats:216 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:17:02.146 | SUCCESS  | database:get_dashboard_stats:223 - Dashboard statistics fetched successfully!
+2025-02-26 22:17:02.180 | INFO     | database:get_dashboard_stats:216 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:17:02.254 | SUCCESS  | database:get_dashboard_stats:223 - Dashboard statistics fetched successfully!
+2025-02-26 22:17:15.287 | INFO     | database:fetch_dashboard_statistics:116 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:17:15.383 | INFO     | database:fetch_dashboard_statistics:137 - Dashboard statistics fetched successfully!
+2025-02-26 22:17:15.386 | INFO     | database:fetch_dashboard_statistics:116 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:17:15.481 | INFO     | database:fetch_dashboard_statistics:137 - Dashboard statistics fetched successfully!
+2025-02-26 22:18:09.210 | INFO     | main:get_dashboard_stats:355 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:18:09.810 | SUCCESS  | main:get_dashboard_stats:378 - Dashboard statistics fetched successfully!
+2025-02-26 22:18:09.813 | INFO     | main:get_dashboard_stats:355 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:18:09.911 | SUCCESS  | main:get_dashboard_stats:378 - Dashboard statistics fetched successfully!
+2025-02-26 22:19:47.006 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:19:47.101 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 22:19:47.104 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:19:47.201 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 22:20:38.851 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:20:38.948 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 22:20:38.951 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:20:39.047 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 22:21:50.177 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:21:51.036 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 22:21:51.040 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:21:51.227 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 22:22:02.244 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:22:02.341 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 22:22:02.344 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:22:02.440 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 22:22:18.197 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:22:18.294 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 22:22:18.296 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:22:18.398 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 22:22:26.248 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:22:26.341 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 22:22:26.344 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:22:26.441 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 22:23:01.083 | INFO     | main:get_dashboard_stats:355 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:23:01.181 | SUCCESS  | main:get_dashboard_stats:378 - Dashboard statistics fetched successfully!
+2025-02-26 22:23:01.183 | INFO     | main:get_dashboard_stats:355 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:23:01.293 | SUCCESS  | main:get_dashboard_stats:378 - Dashboard statistics fetched successfully!
+2025-02-26 22:23:37.431 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:23:37.527 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 22:23:37.530 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:23:37.623 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 22:23:56.035 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:23:56.133 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 22:23:56.136 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:23:56.232 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 22:26:31.825 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:26:31.920 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 22:26:31.922 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:26:32.020 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 22:27:09.790 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:27:09.887 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 22:27:09.890 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:27:09.987 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 22:27:21.321 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:27:21.421 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 22:27:21.424 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:27:21.521 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 22:27:33.074 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:27:33.175 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 22:27:33.177 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:27:33.277 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 22:27:53.139 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:27:53.235 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 22:27:53.238 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:27:53.334 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 22:53:10.162 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:53:10.530 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 22:53:10.534 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:53:10.651 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 22:53:12.029 | ERROR    | main:chat:347 - Error in chat endpoint: ('Sambanova /complete call failed with status code 429.', '{"error":{"code":null,"message":"Rate limit exceeded","param":null,"type":"rate_limit_exceeded"}}\n.')
+2025-02-26 22:53:44.588 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:53:44.743 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 22:53:44.745 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:53:44.987 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 22:53:46.461 | ERROR    | main:chat:347 - Error in chat endpoint: ('Sambanova /complete call failed with status code 429.', '{"error":{"code":null,"message":"Rate limit exceeded","param":null,"type":"rate_limit_exceeded"}}\n.')
+2025-02-26 22:54:17.420 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:54:18.408 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 22:54:18.411 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 22:54:18.591 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 23:22:28.908 | SUCCESS  | main:create_booking:408 - Booking created successfully!
+2025-02-26 23:22:30.534 | INFO     | main:get_dashboard_stats:355 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 23:22:30.903 | SUCCESS  | main:get_dashboard_stats:378 - Dashboard statistics fetched successfully!
+2025-02-26 23:22:30.905 | INFO     | main:get_dashboard_stats:355 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 23:22:31.009 | SUCCESS  | main:get_dashboard_stats:378 - Dashboard statistics fetched successfully!
+2025-02-26 23:23:55.168 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 23:23:55.267 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 23:23:55.269 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 23:23:55.365 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 23:24:33.001 | INFO     | main:get_dashboard_stats:355 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 23:24:33.100 | SUCCESS  | main:get_dashboard_stats:378 - Dashboard statistics fetched successfully!
+2025-02-26 23:24:33.103 | INFO     | main:get_dashboard_stats:355 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 23:24:33.203 | SUCCESS  | main:get_dashboard_stats:378 - Dashboard statistics fetched successfully!
+2025-02-26 23:27:08.975 | SUCCESS  | main:create_booking:408 - Booking created successfully!
+2025-02-26 23:27:12.798 | INFO     | main:get_dashboard_stats:355 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 23:27:12.897 | SUCCESS  | main:get_dashboard_stats:378 - Dashboard statistics fetched successfully!
+2025-02-26 23:27:12.899 | INFO     | main:get_dashboard_stats:355 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 23:27:13.000 | SUCCESS  | main:get_dashboard_stats:378 - Dashboard statistics fetched successfully!
+2025-02-26 23:27:33.187 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 23:27:33.294 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 23:27:33.298 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 23:27:33.404 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 23:28:35.150 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 23:28:35.249 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 23:28:35.252 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 23:28:35.348 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 23:28:47.381 | INFO     | main:get_dashboard_stats:355 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 23:28:47.687 | SUCCESS  | main:get_dashboard_stats:378 - Dashboard statistics fetched successfully!
+2025-02-26 23:28:47.690 | INFO     | main:get_dashboard_stats:355 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 23:28:47.784 | SUCCESS  | main:get_dashboard_stats:378 - Dashboard statistics fetched successfully!
+2025-02-26 23:29:04.221 | INFO     | main:get_dashboard_stats:355 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 23:29:04.319 | SUCCESS  | main:get_dashboard_stats:378 - Dashboard statistics fetched successfully!
+2025-02-26 23:29:04.321 | INFO     | main:get_dashboard_stats:355 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 23:29:04.429 | SUCCESS  | main:get_dashboard_stats:378 - Dashboard statistics fetched successfully!
+2025-02-26 23:29:48.174 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 23:29:48.274 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
+2025-02-26 23:29:48.277 | INFO     | main:fetch_dashboard_statistics:255 - Fetching dashboard stats for date = 2025-02-26
+2025-02-26 23:29:48.376 | INFO     | main:fetch_dashboard_statistics:276 - Dashboard statistics fetched successfully!
