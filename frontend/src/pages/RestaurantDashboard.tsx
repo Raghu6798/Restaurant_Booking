@@ -4,8 +4,8 @@ import ChatWidget from '../components/ChatWidget';
 import { motion } from "framer-motion";
 import { Users, Clock, CalendarDays, Settings } from "lucide-react";
 
-const API_BOOKINGS_URL = "http://127.0.0.1:8000/api/bookings/";
-const API_DASHBOARD_URL = "http://127.0.0.1:8000/api/dashboard";
+const API_BOOKINGS_URL = "https://restaurantbot-production.up.railway.app/api/bookings/";
+const API_DASHBOARD_URL = "https://restaurantbot-production.up.railway.app/api/dashboard";
 
 function RestaurantDashboard() {
   const [stats, setStats] = useState({
