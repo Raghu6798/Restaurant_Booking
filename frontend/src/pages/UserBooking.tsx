@@ -77,7 +77,7 @@ function UserBooking() {
         timestamp: new Date().toISOString(), // Ensure timestamp is updated on submit
       };
   
-      const response = await axios.post("http://127.0.0.1:8000/api/bookings/", bookingData);
+      const response = await axios.post("https://restaurantbot-production.up.railway.app/api/bookings/", bookingData);
       setResponseMessage("Booking confirmed successfully!");
       console.log("Booking submitted:", response.data);
   
