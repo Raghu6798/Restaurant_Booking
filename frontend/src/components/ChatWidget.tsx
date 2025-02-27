@@ -4,7 +4,7 @@ import { MessageSquare, Send, X } from "lucide-react";
 import { motion } from "framer-motion";
 
 // API Endpoint
-const API_URL = "http://127.0.0.1:8000/chat";
+const API_URL = "https://restaurantbot-production.up.railway.app/api/bookings/chat";
 
 const ChatWidget = () => {
   const [isOpen, setIsOpen] = useState(false);
